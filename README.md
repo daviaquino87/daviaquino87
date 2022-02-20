@@ -4,7 +4,7 @@
 
 - ⚡ Eterno estudante da progamação...
 - 🔭 Estou estudando o desenvolvimento back-end
-- 🌱 aprendedno  javaScript
+- 🌱 aprendendo  javaScript
 <br>
 <div align="center">
   <a href="https://github.com/daviaquino87">
