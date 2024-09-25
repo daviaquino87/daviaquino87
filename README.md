@@ -5,7 +5,7 @@
   </div>
 
 # 💫 About Me:
-🏢 I'm currently working at evocorp<br>👀 I'm an active user of nestjs<br>🌱 Studying to learn about: Node.js, Nest.Js, Backend<br>💬 Ping me about backend, node, javascript, development<br>📫 Reach me: davi26031@gmail.com<br>⚡️ Fun fact: I'm a great lover of games, animes, cartoons and movies
+🏢 I'm currently working at vendd<br>👀 I'm an active user of nestjs<br>🌱 Studying to learn about: Node.js, Nest.Js, Backend<br>💬 Ping me about backend, node, javascript, development<br>📫 Reach me: davi26031@gmail.com<br>⚡️ Fun fact: I'm a great lover of games, animes, cartoons and movies
 
 
 ## 🌐 Socials:
