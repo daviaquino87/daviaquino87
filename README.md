@@ -1,25 +1,103 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=576277&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=576277&height=120&section=header"/>
 
-<div>
-  <div>
-      <h1 align="center">Hi 👋, I'm Davi Alves</h1>
-      <h3 align="center">A backend developer from Brazil</h3>
-  </div>
+<h1 align="center">Hi 👋, I'm Davi Alves</h1>
 
-# 💫 About Me:
-🏢 I'm currently working at makasi<br>👀 I'm an active user of nestjs<br>🌱 Studying to learn about: Node.js, Nest.Js, Backend<br>💬 Ping me about backend, node, javascript, development<br>📫 Reach me: davi26031@gmail.com<br>⚡️ Fun fact: I'm a great lover of games, animes, cartoons and movies
+<p align="center">
+  <strong>Backend Engineer • Node.js • TypeScript</strong>
+</p>
 
+<p align="center">
+  Building scalable backend systems, APIs and distributed applications.
+</p>
 
-### STATS:
------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-aquino">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:davi26031@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/daviaquino87">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daviaquino87&show_icons=true&count_private=true&hide_border=true&title_color=d7192b&icon_color=d7192b&text_color=7fa6bc&bg_color=0d1117" alt="daviaquino87 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviaquino87&layout=compact&hide_border=true&title_color=d7192b&text_color=7fa6bc&bg_color=0d1117" />
-</div>
+---
 
-### SKILLS / TOOLS:
------------------------------------------------------------------------------------------------------------
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+## About Me
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=576277&height=120&section=footer"/>
+I'm a Backend Engineer from Brazil focused on building reliable and scalable backend systems.
+
+- 💻 Working mainly with **Node.js, TypeScript and NestJS**
+- 🏗️ Interested in **software architecture, distributed systems and backend engineering**
+- 🔄 Experience with **REST APIs, asynchronous processing, queues and event-driven systems**
+- 🗄️ Working with **PostgreSQL, MySQL, MongoDB and Redis**
+- ☁️ Experience with **AWS, Azure and Docker**
+- 🧪 Strong interest in **testing, code quality and maintainable architectures**
+- 🚀 Currently improving my knowledge of **system design and software architecture**
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white"/>
+</p>
+
+### Databases & Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
+
+### Testing & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## What I Work With
+
+```text
+Backend Development
+├── REST APIs
+├── Microservices
+├── Event-driven architecture
+├── Asynchronous processing
+├── Message queues
+├── Database design
+├── Caching
+└── Distributed systems
+
+Engineering
+├── Clean Architecture
+├── SOLID
+├── TDD
+├── Automated Testing
+├── Code Quality
+└── Observability
+```
